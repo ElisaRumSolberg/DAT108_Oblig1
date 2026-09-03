@@ -76,8 +76,8 @@ public class Oppg2 {
         return Arrays.asList(
                 new Ansatt("Samsam", "Abdi", Kjonn.KVINNE, "Utvikler", 600000),
                 new Ansatt("Elisa", "Solberg", Kjonn.KVINNE, "Sjef", 800000),
-                new Ansatt("Casper", "Børretzen", Kjonn.MANN, "Tester", 450000),
-                new Ansatt("Martin", "Larsen", Kjonn.MANN, "Utvikler", 550000),
+                new Ansatt("Casper", "Børretzen", Kjonn.MANN, "Tester", 550000),
+                new Ansatt("Martin", "Larsen", Kjonn.MANN, "Utvikler", 450000),
                 new Ansatt("Ida", "Berg", Kjonn.KVINNE, "Prosjektsjef", 900000)
         );
     }
