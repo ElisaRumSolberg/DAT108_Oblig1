@@ -35,4 +35,13 @@ public class Ansatt {
                 + ", lønn: " + aarslonn;
     }
 
+
+    //3
+    public String getEtternavn() {
+        return etternavn;
+    }
+
+    public String getStilling() {
+        return stilling;
+    }
 }
